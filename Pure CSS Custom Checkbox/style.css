@@ -1,0 +1,23 @@
+@import "https://use.fontawesome.com/releases/v5.15.4/css/all.css";
+
+body {
+    background-color: darkgray;
+}
+
+.description {
+    font-size: 16px;
+}
+
+.html,
+.css,
+.js {
+    font-size: 20px;
+    color: firebrick;
+}
+
+.fab.fa-html5,
+.fab.fa-css3-alt,
+.fab.fa-js-square {
+    font-size: 3rem;
+    color: khaki;
+}
