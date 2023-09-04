@@ -1,4 +1,5 @@
 @import "https://use.fontawesome.com/releases/v5.15.4/css/all.css";
+
 body {
     background-color: cornflowerblue;
 }
@@ -13,4 +14,12 @@ body {
     text-align: center;
 
     font-size: 18px;
+}
+
+.fab.fa-html5,
+.fab.fa-css3-alt,
+.fab.fa-js-square,
+.fab.fa-react {
+    color: chocolate;
+    font-size: 2rem;
 }
