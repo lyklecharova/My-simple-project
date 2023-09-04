@@ -1,11 +1,15 @@
-.desc{
+body {
+    background-color: cornflowerblue;
+}
+
+.desc {
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
     align-items: center;
 }
 
-.description{
+.description {
     text-align: center;
+
     font-size: 18px;
-    /* color:cadetblue; */
 }
